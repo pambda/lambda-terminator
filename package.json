@@ -1,0 +1,27 @@
+{
+  "name": "lambda-terminator",
+  "version": "0.0.1",
+  "description": "Terminate Lambda",
+  "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/pambda/lambda-terminator/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/pambda/lambda-terminator",
+  "keywords": [
+    "aws",
+    "lambda"
+  ],
+  "license": "MIT",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pambda/lambda-terminator.git"
+  },
+  "scripts": {},
+  "files": [
+    "README.md",
+    "lib/"
+  ]
+}
