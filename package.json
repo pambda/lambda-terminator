@@ -1,6 +1,6 @@
 {
   "name": "lambda-terminator",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Terminate Lambda",
   "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
   "bugs": {
