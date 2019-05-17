@@ -7,7 +7,7 @@ This lambda logs `event` and stack trace, and terminates the process without cal
 ## Installation
 
 ```
-npm i lambda-terminator -S
+npm i lambda-terminator
 ```
 
 ## Usage

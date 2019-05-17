@@ -7,7 +7,7 @@ Lambda を終了させる。
 ## Installation
 
 ```
-npm i lambda-terminator -S
+npm i lambda-terminator
 ```
 
 ## Usage
